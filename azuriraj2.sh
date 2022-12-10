@@ -2,4 +2,3 @@
 
 sudo apt update
 audo apt full-upgrade -y
-echo "azurirano"
